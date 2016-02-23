@@ -1,3 +1,3 @@
 # PHP-JSON
-Create DropDownList with JSON
+Load DropDownList with JSON
 JSON PHP
